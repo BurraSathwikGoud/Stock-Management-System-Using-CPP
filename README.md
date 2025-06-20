@@ -1,0 +1,2 @@
+A simple console-based Stock Management System built using C++ to manage product inventories efficiently. It allows users to add, view, and delete products, with all data stored persistently in a text file. The system uses file handling and vectors to maintain product details like ID, Name, Quantity, and Price. Suitable for small businesses or learning purposes, this project demonstrates practical implementation of file I/O, OOP concepts, and STL in C++.
+
